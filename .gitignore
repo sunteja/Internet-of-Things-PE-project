@@ -5,3 +5,4 @@
 *.sm
 *.out
 *.csv
+.ipynb_checkpoints/*
