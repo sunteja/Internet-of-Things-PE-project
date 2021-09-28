@@ -1,4 +1,4 @@
-# Heart Disease prediction of UCI dataset using ML and encrypting this data using TenSEAL
+# Heart Disease prediction of UCI dataset using ML with Homomorphic encryption using TenSEAL
 
 ## Introduction
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the increasing number of heart diseases day by day, detecting and preventing heart diseases as early as possible has become a necessity for us. Moreover, good data systems can improve the research in heart diseases prevention and can improve and save many people's lives. <br />
