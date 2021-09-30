@@ -7,4 +7,6 @@
 Please download the dataset from [here](https://www.kaggle.com/johnsmith88/heart-disease-dataset). <br/> <br/>
 
 ## Installing TenSEAL
-For installing TenSEAL, please refer to the instructions given [here](https://github.com/OpenMined/TenSEAL/blob/main/README.md). Please go through the tutorial section to learn how to use this library for homomorphic encryption. 
+* Before installing TenSEAL, make sure that the latest version of the PyPy library is installed. If you are using a MacOS then, you can install PyPy by running the following two commands in a terminal ```bash
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py``` and ```bash sudo python get-pip.py ``` commands. If you are not using a MacOS then, just directly download the PyPy library from [here](https://www.pypy.org/download.html). You can find the MacOS version of PyPy here too. Make sure you download the recent most version of it. 
+* After installing PyPy, for installing TenSEAL, please refer to the instructions given [here](https://github.com/OpenMined/TenSEAL/blob/main/README.md). Please go through the tutorial section to learn how to use this library for homomorphic encryption.
